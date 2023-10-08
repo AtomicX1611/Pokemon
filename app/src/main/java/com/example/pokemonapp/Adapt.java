@@ -44,6 +44,7 @@ public class Adapt extends RecyclerView.Adapter<Adapt.MyViewholder> {
          holder.t.setText(m.getT1());
          holder.d.setText(m.getT2());
         holder.img.setImageResource(m.getIm());
+        //Test
     }
 
     @Override
